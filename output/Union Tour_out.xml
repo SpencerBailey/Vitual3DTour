@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node18">
+  <panorama id="node18">
+    <view fovmode="0" pannorth="161.5">
+      <start pan="7.5" fov="102.77" tilt="6.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="MMU Student Union" datetime="2015:02:14 12:58:34" description="Boundary Street West" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2398805618286133" latitude="53.46845786265835"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Reception" target="" pan="4.22882" skinid="" url="{node4}" id="Point01" tilt="3.83881"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010433_o_0.jpg" prev5url="images/R0010433_o_preview_5.jpg" prev4url="images/R0010433_o_preview_4.jpg" prev3url="images/R0010433_o_preview_3.jpg" prev2url="images/R0010433_o_preview_2.jpg" prev1url="images/R0010433_o_preview_1.jpg" prev0url="images/R0010433_o_preview_0.jpg" tile5url="images/R0010433_o_5.jpg" tilesize="896" tile4url="images/R0010433_o_4.jpg" tile3url="images/R0010433_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010433_o_2.jpg" tile1url="images/R0010433_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="174.5">
+      <start pan="0" fov="80" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Reception" datetime="2015:02:14 12:39:54" description="The Reception of the Student Union" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239716947078705" latitude="53.46834609870735"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="136/-0.5/70" pan="123.716" skinid="" url="{node17}" id="Point01" tilt="-1.03236"/>
+      <hotspot title="Caffe" target="183/-3/70" pan="31.97" skinid="" url="{node1}" id="Point02" tilt="-3.7704"/>
+      <hotspot title="Outside Student Union" target="33/12/70" pan="-166.603" skinid="" url="{node18}" id="Point03" tilt="-1.53507"/>
+      <hotspot title="First Floor Lift" target="28/-14.5/70" pan="67.6392" skinid="" url="{node15}" id="Point04" tilt="-3.43932"/>
+      <hotspot title="Main Room" target="248.5/-2.5/70" pan="99.0474" skinid="" url="{node16}" id="Point05" tilt="-1.64917"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010419_o_0.jpg" prev5url="images/R0010419_o_preview_5.jpg" prev4url="images/R0010419_o_preview_4.jpg" prev3url="images/R0010419_o_preview_3.jpg" prev2url="images/R0010419_o_preview_2.jpg" prev1url="images/R0010419_o_preview_1.jpg" prev0url="images/R0010419_o_preview_0.jpg" tile5url="images/R0010419_o_5.jpg" tilesize="896" tile4url="images/R0010419_o_4.jpg" tile3url="images/R0010419_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010419_o_2.jpg" tile1url="images/R0010419_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0.5">
+      <start pan="177" fov="80" tilt="-3"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Caffe" datetime="2015:02:14 12:36:24" description="Starbucks Caffe Area" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239379659295082" latitude="53.46821956559337"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Union Shop" target="249.5/-4/70" pan="109.388" skinid="" url="{node3}" id="Point01" tilt="0"/>
+      <hotspot title="Main Room" target="97.5/-2/70" pan="-87.2212" skinid="" url="{node2}" id="Point02" tilt="-2.50964"/>
+      <hotspot title="Reception" target="164/-3/70" pan="27.9734" skinid="" url="{node4}" id="Point03" tilt="-4.1664"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010416_o_0.jpg" prev5url="images/R0010416_o_preview_5.jpg" prev4url="images/R0010416_o_preview_4.jpg" prev3url="images/R0010416_o_preview_3.jpg" prev2url="images/R0010416_o_preview_2.jpg" prev1url="images/R0010416_o_preview_1.jpg" prev0url="images/R0010416_o_preview_0.jpg" tile5url="images/R0010416_o_5.jpg" tilesize="896" tile4url="images/R0010416_o_4.jpg" tile3url="images/R0010416_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010416_o_2.jpg" tile1url="images/R0010416_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="180">
+      <start pan="100" fov="80.87" tilt="-7"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Main Room" datetime="2015:02:14 12:37:44" description="Main Room for Games/Event first view" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239185869693756" latitude="53.46829340988554"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Main Room" target="3.5/-10/70" pan="179.455" skinid="" url="{node16}" id="Point01" tilt="-11.6805"/>
+      <hotspot title="" target="138.5/0/70" pan="-173.098" skinid="" url="{node17}" id="Point02" tilt="1.46433"/>
+      <hotspot title="Caffe" target="179.5/-0.5/70" pan="302.822" skinid="" url="{node1}" id="Point03" tilt="0"/>
+      <hotspot title="Balcony Over Main Room" target="241.5/-5.5/70" pan="-159.223" skinid="" url="{node5}" id="Point04" tilt="16.3374"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010417_o_0.jpg" prev5url="images/R0010417_o_preview_5.jpg" prev4url="images/R0010417_o_preview_4.jpg" prev3url="images/R0010417_o_preview_3.jpg" prev2url="images/R0010417_o_preview_2.jpg" prev1url="images/R0010417_o_preview_1.jpg" prev0url="images/R0010417_o_preview_0.jpg" tile5url="images/R0010417_o_5.jpg" tilesize="896" tile4url="images/R0010417_o_4.jpg" tile3url="images/R0010417_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010417_o_2.jpg" tile1url="images/R0010417_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node16">
+    <view fovmode="0" pannorth="70">
+      <start pan="330.5" fov="80" tilt="-4"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Main Room" datetime="2015:02:14 12:55:32" description="Main Room for Games/Event second view" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2392287850379944" latitude="53.468387611066376"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="137.5/-1/70" pan="73.6794" skinid="" url="{node17}" id="Point01" tilt="0.995617"/>
+      <hotspot title="Main Room" target="296/-2.5/70" pan="-101.741" skinid="" url="{node2}" id="Point02" tilt="-9.5725"/>
+      <hotspot title="Caffe" target="180/-2/70" pan="221.861" skinid="" url="{node1}" id="Point03" tilt="0"/>
+      <hotspot title="Reception" target="94.5/-2.5/70" pan="129.997" skinid="" url="{node4}" id="Point04" tilt="-0.913419"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010431_o_0.jpg" prev5url="images/R0010431_o_preview_5.jpg" prev4url="images/R0010431_o_preview_4.jpg" prev3url="images/R0010431_o_preview_3.jpg" prev2url="images/R0010431_o_preview_2.jpg" prev1url="images/R0010431_o_preview_1.jpg" prev0url="images/R0010431_o_preview_0.jpg" tile5url="images/R0010431_o_5.jpg" tilesize="896" tile4url="images/R0010431_o_4.jpg" tile3url="images/R0010431_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010431_o_2.jpg" tile1url="images/R0010431_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="153.5">
+      <start pan="335.5" fov="100" tilt="-3"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Union Shop" datetime="2015:02:14 12:38:52" description="Student Union shop" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239534556865692" latitude="53.46818004886529"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Caffe" target="276.5/1.5/70" pan="82.38760000000001" skinid="" url="{node1}" id="Point01" tilt="0"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010418_o_0.jpg" prev5url="images/R0010418_o_preview_5.jpg" prev4url="images/R0010418_o_preview_4.jpg" prev3url="images/R0010418_o_preview_3.jpg" prev2url="images/R0010418_o_preview_2.jpg" prev1url="images/R0010418_o_preview_1.jpg" prev0url="images/R0010418_o_preview_0.jpg" tile5url="images/R0010418_o_5.jpg" tilesize="896" tile4url="images/R0010418_o_4.jpg" tile3url="images/R0010418_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010418_o_2.jpg" tile1url="images/R0010418_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17">
+    <view fovmode="0" pannorth="97.5">
+      <start pan="130.5" fov="90" tilt="-1"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Main Bar" datetime="2015:02:14 12:56:43" description="Student Union bar " copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2393709421157837" latitude="53.46848340866297"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Reception" target="12/-4.5/70" pan="0.391778" skinid="" url="{node4}" id="Point01" tilt="-0.467761"/>
+      <hotspot title="Main Room" target="271.5/-1.5/70" pan="69.2683" skinid="" url="{node16}" id="Point02" tilt="0.492127"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010432_o_0.jpg" prev5url="images/R0010432_o_preview_5.jpg" prev4url="images/R0010432_o_preview_4.jpg" prev3url="images/R0010432_o_preview_3.jpg" prev2url="images/R0010432_o_preview_2.jpg" prev1url="images/R0010432_o_preview_1.jpg" prev0url="images/R0010432_o_preview_0.jpg" tile5url="images/R0010432_o_5.jpg" tilesize="896" tile4url="images/R0010432_o_4.jpg" tile3url="images/R0010432_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010432_o_2.jpg" tile1url="images/R0010432_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node15">
+    <view fovmode="0" pannorth="300.5">
+      <start pan="9.5" fov="90" tilt="-9.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="First Floor Lift" datetime="2015:02:14 12:54:21" description="Looking over the reception" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239510416984558" latitude="53.46836525826272"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Balcony Over Main Room" target="21/-16.5/70" pan="259.514" skinid="" url="{node5}" id="Point01" tilt="0"/>
+      <hotspot title="Dance Studio" target="192/-8.5/70" pan="109.661" skinid="" url="{node11}" id="Point02" tilt="-0.420543"/>
+      <hotspot title="Finance Office/Amazon Lockers" target="0/-5.5/70" pan="137.146" skinid="" url="{node8}" id="Point03" tilt="1.00134"/>
+      <hotspot title="Reception" target="22/-7/70" pan="-131.324" skinid="" url="{node4}" id="Point04" tilt="-10.2495"/>
+      <hotspot title="Large Conference Room" target="307.5/-3.5/70" pan="272.854" skinid="" url="{node6}" id="Point05" tilt="0"/>
+      <hotspot title="Small Conference Room" target="291.5/-3.5/70" pan="143.89" skinid="" url="{node10}" id="Point06" tilt="-2.62648"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010430_o_0.jpg" prev5url="images/R0010430_o_preview_5.jpg" prev4url="images/R0010430_o_preview_4.jpg" prev3url="images/R0010430_o_preview_3.jpg" prev2url="images/R0010430_o_preview_2.jpg" prev1url="images/R0010430_o_preview_1.jpg" prev0url="images/R0010430_o_preview_0.jpg" tile5url="images/R0010430_o_5.jpg" tilesize="896" tile4url="images/R0010430_o_4.jpg" tile3url="images/R0010430_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010430_o_2.jpg" tile1url="images/R0010430_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <view fovmode="0" pannorth="163.5">
+      <start pan="22.5" fov="80" tilt="-7.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Balocony Over Main Room" datetime="2015:02:14 12:43:07" description="First Floor balcony over the main room" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239290475845337" latitude="53.46846744241185"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="First Floor Lift" target="140.5/-10.5/70" pan="-101.776" skinid="" url="{node15}" id="Point01" tilt="-6.39854"/>
+      <hotspot title="Main Room" target="293.5/1.5/70" pan="19.3227" skinid="" url="{node2}" id="Point02" tilt="-21.9532"/>
+      <hotspot title="Large Conference Room" target="" pan="-175.302" skinid="" url="{node6}" id="Point03" tilt="0.144577"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010420_o_0.jpg" prev5url="images/R0010420_o_preview_5.jpg" prev4url="images/R0010420_o_preview_4.jpg" prev3url="images/R0010420_o_preview_3.jpg" prev2url="images/R0010420_o_preview_2.jpg" prev1url="images/R0010420_o_preview_1.jpg" prev0url="images/R0010420_o_preview_0.jpg" tile5url="images/R0010420_o_5.jpg" tilesize="896" tile4url="images/R0010420_o_4.jpg" tile3url="images/R0010420_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010420_o_2.jpg" tile1url="images/R0010420_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <view fovmode="0" pannorth="247.5">
+      <start pan="0" fov="80" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Large Conference Room" datetime="2015:02:14 12:43:57" description="First Floor Large Conference Room" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239392399787903" latitude="53.46849937490806"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="First Floor Lift" target="135.5/-1.5/70" pan="399.854" skinid="" url="{node15}" id="Point01" tilt="0"/>
+      <hotspot title="Balocony Over Main Room" target="18/-18/70" pan="129.742" skinid="" url="{node5}" id="Point02" tilt="0"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010421_o_0.jpg" prev5url="images/R0010421_o_preview_5.jpg" prev4url="images/R0010421_o_preview_4.jpg" prev3url="images/R0010421_o_preview_3.jpg" prev2url="images/R0010421_o_preview_2.jpg" prev1url="images/R0010421_o_preview_1.jpg" prev0url="images/R0010421_o_preview_0.jpg" tile5url="images/R0010421_o_5.jpg" tilesize="896" tile4url="images/R0010421_o_4.jpg" tile3url="images/R0010421_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010421_o_2.jpg" tile1url="images/R0010421_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11">
+    <view fovmode="0" pannorth="160.5">
+      <start pan="175.5" fov="80" tilt="-1.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Dance Studio" datetime="2015:02:14 12:50:24" description="Dance Studio" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2396069765090942" latitude="53.468274250297746"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Finance Office/Amazon Lockers" target="1.5/-3.5/70" pan="47.2824" skinid="" url="{node8}" id="Point02" tilt="-5.2142"/>
+      <hotspot title="Small Conference Room" target="318/-1.5/70" pan="142.679" skinid="" url="{node10}" id="Point01" tilt="-2.27015"/>
+      <hotspot title="First Floor Lift" target="222.5/-8.5/70" pan="154.455" skinid="" url="{node15}" id="Point03" tilt="-2.37333"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010426_o_0.jpg" prev5url="images/R0010426_o_preview_5.jpg" prev4url="images/R0010426_o_preview_4.jpg" prev3url="images/R0010426_o_preview_3.jpg" prev2url="images/R0010426_o_preview_2.jpg" prev1url="images/R0010426_o_preview_1.jpg" prev0url="images/R0010426_o_preview_0.jpg" tile5url="images/R0010426_o_5.jpg" tilesize="896" tile4url="images/R0010426_o_4.jpg" tile3url="images/R0010426_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010426_o_2.jpg" tile1url="images/R0010426_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <view fovmode="0" pannorth="66.5">
+      <start pan="0" fov="80" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Finance Office/Amazon Lockers" datetime="2015:02:14 12:45:35" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2392287850379944" latitude="53.46820240176649"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="First Floor Lift" target="227.5/-7/70" pan="89.1895" skinid="" url="{node15}" id="Point01" tilt="-1.26607"/>
+      <hotspot title="Dance Studio" target="182/-6/70" pan="103.291" skinid="" url="{node11}" id="Point02" tilt="-1.29599"/>
+      <hotspot title="Small Conference Room" target="307/-3/70" pan="66.4833" skinid="" url="{node10}" id="Point03" tilt="0"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010423_o_0.jpg" prev5url="images/R0010423_o_preview_5.jpg" prev4url="images/R0010423_o_preview_4.jpg" prev3url="images/R0010423_o_preview_3.jpg" prev2url="images/R0010423_o_preview_2.jpg" prev1url="images/R0010423_o_preview_1.jpg" prev0url="images/R0010423_o_preview_0.jpg" tile5url="images/R0010423_o_5.jpg" tilesize="896" tile4url="images/R0010423_o_4.jpg" tile3url="images/R0010423_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010423_o_2.jpg" tile1url="images/R0010423_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10">
+    <view fovmode="0" pannorth="22">
+      <start pan="302" fov="80" tilt="-10.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Small Conference Room" datetime="2015:02:14 12:49:33" description="Small Conference Room" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239360213279724" latitude="53.468338115556755"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="First Floor Lift" target="309/-8/70" pan="95.11320000000001" skinid="" url="{node15}" id="Point01" tilt="0"/>
+      <hotspot title="Dance Studio" target="193/-8.5/70" pan="135.498" skinid="" url="{node11}" id="Point02" tilt="0"/>
+      <hotspot title="Finance Office/Amazon Lockers" target="0/0/70" pan="143.612" skinid="" url="{node8}" id="Point03" tilt="-25.1189"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/R0010425_o_0.jpg" prev5url="images/R0010425_o_preview_5.jpg" prev4url="images/R0010425_o_preview_4.jpg" prev3url="images/R0010425_o_preview_3.jpg" prev2url="images/R0010425_o_preview_2.jpg" prev1url="images/R0010425_o_preview_1.jpg" prev0url="images/R0010425_o_preview_0.jpg" tile5url="images/R0010425_o_5.jpg" tilesize="896" tile4url="images/R0010425_o_4.jpg" tile3url="images/R0010425_o_3.jpg" tilescale="1.011160714285714" tile2url="images/R0010425_o_2.jpg" tile1url="images/R0010425_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
